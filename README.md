@@ -1,5 +1,4 @@
 # Hojaifa Tanvir
----
 👋 Hi there, My name is Hojaifa Tanvir.<br>😀 I'm 25 years old, I'm a self-taught Software Quality Assurance Engineer. I've profound knowledge in Manual Testing & Automation Testing(ongoing) . Graduated from University of Asia Pacific with a Bachelor Degree in CSE ,Bangladesh. <br>👯 I strongly eager to work with any local, large or multinational organization to intensify my knowledge in the SQA galaxy.<br> 
 
 
