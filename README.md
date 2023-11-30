@@ -1,5 +1,5 @@
 # Hojaifa Tanvir
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hojaifa Tanvir.<br>😀 I'm 25 years old, I'm a self-taught Software Quality Assurance Engineer. I've profound knowledge in Manual Testing & Automation Testing(ongoing) . Graduated from University of Asia Pacific with a Bachelor Degree in CSE ,Bangladesh. <br>👯 I strongly eager to work with any local, large or multinational organization to intensify my knowledge in the SQA galaxy.<br> 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hojaifa Tanvir.<br>😀 I'm 25 years old, I'm a self-taught Software Quality Assurance Engineer. I've profound knowledge in Manual Testing & Automation Testing(ongoing) . Graduated from University of Asia Pacific with a Bachelor Degree in CSE ,Bangladesh. I strongly eager to work with any local, large or multinational organization to intensify my knowledge in the SQA galaxy.<br> 
 *   🌍  I'm based in Dhaka, Bangladesh
 *   ✉️  You can contact me at [tanvircse24@gmail.com](mailto:tanvircse24@gmail.com)
 *   🤝  I'm open to collaborating on new web projects for testing purposes### Skills
